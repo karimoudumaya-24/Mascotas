@@ -14,7 +14,7 @@ public class Mascota {
 
     public void mostrarFicha(){
 
-    System.out.println("Mascota: " + " edad: " + edad + " | nombre: " + nombre +  " | especie: " + especie);
+    System.out.println("Mascota: " + " edad: " + edad + " | nombre: " + nombre +  " | especie : " + especie);
 
     }
 
